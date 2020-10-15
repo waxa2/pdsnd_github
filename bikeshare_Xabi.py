@@ -42,7 +42,7 @@ def load_data():
             # Want to filter by month
         if selected_period == '1':
             selected_month = ''
-            while selected_month not in range (1:7):
+            while selected_month not in ['1','2','3','4','5''6']:
                 selected_month = input("\nPlease select a month by entering its corresponding number:\n\
                     1 - January\n\
                     2 - February\n\
