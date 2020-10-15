@@ -5,7 +5,7 @@ The fiel was created on the 15.10.2020
 Bikeshare_Xabi
 
 ### Description
-Describe what your project is about and what it does
+The project wants to analyze data of the use given to the bikeshare service in Chicago, Washington and New York City.
 
 ### Files used
 chicago.csv, washington.csv, new_york_city.csv, Bikeshare_Xabi.py
