@@ -33,7 +33,7 @@ def load_data():
 
     # Then filter the time periods
     selected_period = ''
-    while selected_period not in range (1:4):
+    while selected_period not in range ('1','2','3'):
         selected_period = input("\nPlease enter '1','2' or '3' to filter the period of time:\n\
             1 - Filter by month\n\
             2 - Filter by weekday\n\
